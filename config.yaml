@@ -1,0 +1,4 @@
+system : 2 # 1 = mac, 2 = linux 根据自己的系统选择对应的编号
+level : 2 # 域名等级，level > 2 的话 ksubdomain 会很慢，建议不要更改
+wild : True # True 跳过泛解析域名 False 不跳过 注意 不跳过会产生脏域名！
+pocupdate : True # True 自动更新漏洞库 False 手动判断
