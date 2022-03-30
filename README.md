@@ -1,6 +1,6 @@
 # FuYao - 扶摇直上九万里
 
-**[Docker Hub](https://hub.docker.com/r/explang/fuyaos)** | **[WanLi](https://github.com/ExpLangcn/WanLi)** ｜[LICENSE](LICENSE) ｜ **[Twitter](https://twitter.com/ExpLang_Cn)** | **[问题解决](https://github.com/ExpLangcn/FuYao/wiki/help)**
+**[Docker Hub](https://hub.docker.com/r/explang/fuyaos)** | **[WanLi](https://github.com/ExpLangcn/WanLi)** ｜[LICENSE](LICENSE)| **[问题解决](https://github.com/ExpLangcn/FuYao/wiki/help)**
 
 **自动化进行资产探测及漏洞扫描｜适用黑客进行赏金活动、SRC活动、大规模攻击使用**
 
@@ -91,9 +91,3 @@ python3 FuYao.py
 * **[subfinder](https://github.com/projectdiscovery/subfinder)**
 * **[httpx](https://github.com/projectdiscovery/httpx)**
 * **[nuclei](https://github.com/projectdiscovery/nuclei)**
-# FuYao
-# FuYao
-# FuYao
-# FuYao
-# FuYao
-# FuYao
