@@ -1,4 +1,4 @@
-# FuYao - 扶摇直上九万里 - ExpLangcn/Aopo
+# FuYao - 扶摇直上九万里 - 转Go 不再维护Python项目
 
 ## **[加入Discord](https://discord.gg/GCZzJmzW3G)** | **[WanLi](https://github.com/ExpLangcn/WanLi)** ｜[LICENSE](LICENSE)| **[问题解决](https://github.com/ExpLangcn/FuYao/wiki/help)**｜**[FuYao - Go](https://github.com/ExpLangcn/FuYao-Go)**
 
