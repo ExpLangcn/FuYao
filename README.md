@@ -1,6 +1,6 @@
 # FuYao - 扶摇直上九万里 - 转Go 不再维护Python项目
 
-## **[加入Discord](https://discord.gg/GCZzJmzW3G)** | **[WanLi](https://github.com/ExpLangcn/WanLi)** ｜[LICENSE](LICENSE)| **[问题解决](https://github.com/ExpLangcn/FuYao/wiki/help)**｜**[FuYao - Go](https://github.com/ExpLangcn/FuYao-Go)**
+## **[WanLi](https://github.com/ExpLangcn/WanLi)** ｜[许可证](许可证)| **[问题解决](https://github.com/ExpLangcn/FuYao/wiki/help)**｜**[FuYao - Go](https://github.com/ExpLangcn/FuYao-Go)**
 
 **自动化进行资产探测及漏洞扫描｜适用黑客进行赏金活动、SRC活动、大规模攻击使用**
 
@@ -62,21 +62,9 @@ python3 FuYao.py
 
 **注：目前工具仅限支持Mac系统及Linux系统，建议使用Linux系统！扫描速度与网络有关，建议VPS最少5MB宽带。**
 
-# BiLiBiLi
-
-**[RedCodeTm](https://www.bilibili.com/)**
-
-# Twitter
-
-**[@ExpLang_Cn](https://twitter.com/ExpLang_Cn)**
-
-# 微信群
-
-<img width="400" height="550" src="img/WechatIMG455.jpeg"/>
-
-# 作者微信
-
-<img width="400" height="550" src="img/WechatIMG408.jpeg"/>
+- [**个人博客**](https://blog.yunjianxx.com/) **- 专注分享信息安全新技术、新领域的技术和知识的学习笔记，不时发布原创实用安全工具、安全脚本.**
+- [**在线武器库**](https://link.yunjianxx.com/) **- 提供安全、渗透、社工等方面书签｜为广大网络安全爱好者提供网站导航,为小白提供黑客入门网站的安全站点收集.**
+- 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn)、**Discord: explang**、**[Telegram](https://t.me/ExpLang)**
 
 # 知识星球介绍：
 
