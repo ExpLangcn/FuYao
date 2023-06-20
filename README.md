@@ -66,18 +66,6 @@ python3 FuYao.py
 - [**在线武器库**](https://link.yunjianxx.com/) **- 提供安全、渗透、社工等方面书签｜为广大网络安全爱好者提供网站导航,为小白提供黑客入门网站的安全站点收集.**
 - 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn)、**Discord: explang**、**[Telegram](https://t.me/ExpLang)**
 
-# 知识星球介绍：
-
-【**一次付费 永久免费**，到期联系运营即可免费加入】 
-
-星球面向群体：主要面向信息安全研究人员. 
-
-更新周期：最晚每两天更新一次. 
-
-内容方向：`原创安全工具`｜`安全开发`｜`WEB安全`｜`内网渗透`｜`Bypass`｜`代码审计`｜`CTF`｜`免杀`｜`思路技巧`｜`实战分享`｜`最新漏洞`｜`安全资讯`
-
-<img width="400" height="550" src="https://mmbiz.qpic.cn/mmbiz_jpg/9wVk7PSWIjJQzLyRNhDuxwPovLKzY8xqOqAZnicV5ud9Xbic88kerYd3Iyq50wr2kESufRYYR9b9VPCgDc10cdLQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1"/>
-
 # Info
 
 * **[ksubdomain](https://github.com/knownsec/ksubdomain)**
