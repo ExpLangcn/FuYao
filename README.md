@@ -1,3 +1,9 @@
+**停止更新（归档处理），请关注后续项目**
+
+**[点击关注 Twitter](https://twitter.com/ExpLang_Cn) 以便快速了解我的动态.**
+
+----
+
 # FuYao - 扶摇直上九万里 - 转Go 不再维护Python项目
 
 ## **[WanLi](https://github.com/ExpLangcn/WanLi)** ｜[许可证](许可证)| **[问题解决](https://github.com/ExpLangcn/FuYao/wiki/help)**｜**[FuYao - Go](https://github.com/ExpLangcn/FuYao-Go)**
